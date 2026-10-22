@@ -1,5 +1,7 @@
 # validate
 
+**English** · [中文](README.zh-CN.md)
+
 [![CI](https://github.com/turinglambdaai/validate/actions/workflows/ci.yml/badge.svg)](https://github.com/turinglambdaai/validate/actions/workflows/ci.yml)
 
 Schema validation and typed JSON decoding for Racket. Declare a schema
