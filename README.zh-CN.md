@@ -2,7 +2,7 @@
 
 [English](README.md) · **中文**
 
-[![CI](https://github.com/turinglambdaai/validate/actions/workflows/ci.yml/badge.svg)](https://github.com/turinglambdaai/validate/actions/workflows/ci.yml)
+[![CI](https://github.com/turlamai/validate/actions/workflows/ci.yml/badge.svg)](https://github.com/turlamai/validate/actions/workflows/ci.yml)
 
 Racket 的 schema 校验与 typed JSON 解码库。声明一次 schema，到处解析不可信数据——拿到验证过的值或带路径的错误，zod 工作流，落在 JSON 边界上。
 
