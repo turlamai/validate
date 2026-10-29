@@ -2,7 +2,7 @@
 
 **English** · [中文](README.zh-CN.md)
 
-[![CI](https://github.com/turinglambdaai/validate/actions/workflows/ci.yml/badge.svg)](https://github.com/turinglambdaai/validate/actions/workflows/ci.yml)
+[![CI](https://github.com/turlamai/validate/actions/workflows/ci.yml/badge.svg)](https://github.com/turlamai/validate/actions/workflows/ci.yml)
 
 Schema validation and typed JSON decoding for Racket. Declare a schema
 once, parse untrusted data with it everywhere, get verified values or

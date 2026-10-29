@@ -7,5 +7,5 @@
 (define scribblings '(("scribblings/validate.scrbl" ())))
 (define pkg-desc "Schema validation and typed JSON decoding for untrusted data")
 (define license 'MIT)
-(define pkg-authors '(turinglambdaai))
+(define pkg-authors '(turlamai))
 (define test-omit-paths '("scribblings"))
